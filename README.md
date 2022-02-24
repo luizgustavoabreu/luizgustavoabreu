@@ -23,7 +23,7 @@
 
 ### <p align="center"><img src="https://user-images.githubusercontent.com/72631018/130673376-595be31b-0bbd-4c9b-8f24-568a5b4f602a.gif" alt="clapping hands image" width="24px" style="max-width:100%;">&nbsp;Agradecendo:&nbsp;</p>
 
-<p align="center"> :rocket: <a href="https://rocketseat.com.br">Rocketseat</a>&emsp; :computer: <a href="https://www.cursoemvideo.com">Curso em Vídeo</a>&emsp; :wolf: <a href="https://www.origamid.com">Origamid</a>&emsp; :books: <a href="https://www.w3schools.com">W3Schools</a></p>
+<p align="center"> :rocket: <a href="https://rocketseat.com.br">Rocketseat</a>&emsp; :computer: <a href="https://www.cursoemvideo.com">Curso em Vídeo</a>&emsp; :wolf: <a href="https://www.origamid.com">Origamid</a>&emsp; :books: <a href="https://www.w3schools.com">W3Schools</a>&emsp; :blueberries: <a href="https://www.dio.me">DIO</a></p>
 
 ##
 

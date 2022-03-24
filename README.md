@@ -3,13 +3,14 @@
   <img width="822em" src="https://user-images.githubusercontent.com/72631018/150686743-e8501a27-5eb6-4b9a-a6ce-aeb86742bb63.jpeg" />
   <img width="473em" src="https://github-readme-stats.vercel.app/api?username=luizgustavoabreu&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues&locale=pt-br" />
   <img width="345em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgustavoabreu&layout=compact&langs_count=7&hide=php&theme=dark&locale=pt-br" />
+  <br>
   <img width="822em" src="https://activity-graph.herokuapp.com/graph?username=luizgustavoabreu&theme=xcode&bg_color=151515" />
   </div>
   <br>
 <div align="center">
   <img alt="Loading" src="https://user-images.githubusercontent.com/72631018/151239976-618263e5-c98f-4917-918a-7c10ef400c4a.gif" />
   </div></a>
-<div style="display: inline_block">
+<div>
   <img align="center" alt="Windows" height="27" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg/800px-Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg.png" />
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
   <img align="center" alt="Android" height="35" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />

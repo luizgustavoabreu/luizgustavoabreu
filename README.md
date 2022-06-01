@@ -5,12 +5,8 @@
   <img width="345em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgustavoabreu&layout=compact&langs_count=7&hide=php,shell,hack&theme=dark&locale=pt-br" />
   <br>
   <img width="822em" src="https://activity-graph.herokuapp.com/graph?username=luizgustavoabreu&theme=xcode&bg_color=151515" />
-  </div>
-  <br>
-<div align="center">
-  <img alt="Loading" src="https://user-images.githubusercontent.com/72631018/151239976-618263e5-c98f-4917-918a-7c10ef400c4a.gif" />
-  </div></a>
-  <br>
+</div>
+<br><br>
 <div>
   <img align="center" alt="Windows" height="27" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg/800px-Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg.png" />
   <img align="center" alt="Linux" height="30" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
@@ -24,12 +20,6 @@
   <img align="center" alt="Sass" height="30" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Bootstrap" height="30" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
-  
-##
-
-### <p align="center"><img src="https://user-images.githubusercontent.com/72631018/130673376-595be31b-0bbd-4c9b-8f24-568a5b4f602a.gif" alt="clapping hands image" width="24px" style="max-width:100%;">&nbsp;Agradecendo:&nbsp;</p>
-
-<p align="center"> :rocket: <a href="https://rocketseat.com.br">Rocketseat</a>&emsp; :computer: <a href="https://www.cursoemvideo.com">Curso em Vídeo</a>&emsp; :wolf: <a href="https://www.origamid.com">Origamid</a>&emsp; :books: <a href="https://www.w3schools.com">W3Schools</a>&emsp; :blueberries: <a href="https://www.dio.me">DIO</a>&emsp; :penguin: <a href="https://4linux.com.br/">4Linux</a></p>
 
 ##
 

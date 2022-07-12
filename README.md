@@ -25,7 +25,7 @@
 
 <div>
   <a href="https://www.instagram.com/luizgustavorj"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://sptfy.com/gustavo"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/5syqmq261auw8qfciubeymvl0"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/luizgustavoabreu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.duolingo.com/profile/LuizGustavoRJ"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"></a><img align="right" src="https://komarev.com/ghpvc/?username=luizgustavoabreu&style=flat-square">
 </div>

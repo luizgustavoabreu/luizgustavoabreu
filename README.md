@@ -1,10 +1,10 @@
 <div align="center">
   <a href="https://profile-summary-for-github.com/user/luizgustavoabreu">
   <img width="822em" src="https://user-images.githubusercontent.com/72631018/150686743-e8501a27-5eb6-4b9a-a6ce-aeb86742bb63.jpeg">
-  <img width="473em" src="https://github-readme-stats.vercel.app/api?username=luizgustavoabreu&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues&locale=pt-br">
-  <img width="345em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgustavoabreu&layout=compact&langs_count=7&hide=php,shell,hack&theme=dark&locale=pt-br">
+  <img width="492em" src="https://github-readme-stats.vercel.app/api?username=luizgustavoabreu&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues&locale=pt-br">
+  <img width="326em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgustavoabreu&layout=compact&langs_count=7&hide=php,shell,hack&theme=dark&locale=pt-br">
   <br>
-  <img width="822em" src="https://github-readme-activity-graph.cyclic.app/graph?username=luizgustavoabreu&theme=xcode&bg_color=151515">
+  <img width="822em" src="https://github-readme-activity-graph.vercel.app/graph?username=luizgustavoabreu&theme=xcode&bg_color=151515">
 </div>
 <br><br>
 <div>
